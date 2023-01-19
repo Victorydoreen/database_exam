@@ -1,0 +1,100 @@
+Question 1
+1(i)
+A database refers to a collection of tables with related data.
+
+1(ii)
+A database management system refers to an application software that is used in execution of different commands like
+creating, updating and deleting  in databases.
+
+1(iii)
+SQL refers to a query language used in databases.
+
+1(iv)
+Foreign key refers to a candidate key that uniquely defines an instance and relates to a primary key in another table
+
+1(v)
+A primary key refers to a key that is assigned to an instance to uniquely define it in an entity.
+
+
+Question 2
+The following are the merits of using a database;
+1.Data is highly accessible in an organization; 
+using databases help users of the same organization access the data from different places
+as long they are provided with the password. so they dont have to be in the same place to access it.
+
+2.Sharing of data is eased; When databases are used it makes data sharing easy, to other partners who might not be in the
+same country which might not be possible when databases are not used.
+
+3. There is privacy; There's also privacy to your data when databases are used since no one can acess it without the
+administrator's permission.
+
+4. Data is stored safely; when databases are used there are less chances of data loss since the data is stored safely.
+
+5. Less costs are incurred in managing the database as one person camn employed to do that role
+
+6. Using a database allows many users at a time
+
+
+Question 3
+Postgres, used in schools
+Mysql
+Mungo db 
+Maria db 
+Sql server
+
+Question 4
+
+
+
+1. Cyclic relationship: This is a one to one relationship
+
+2. Binary relationship: This 
+
+3.Ternary relationship
+
+4.Quarternary relationship
+
+One to one relationship
+
+one to many relationship
+
+many to many relationship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

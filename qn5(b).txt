@@ -1,0 +1,18 @@
+question 5b
+i)WHERE
+This clause is used to specify a given attribute or value, 
+for example i can use it to select country Uganda specifically WHERE Country=Uganda
+
+ii) GROUP BY 
+This clause is used to categorize the different columns.
+
+iii) DISTINCT
+This clause is used when you want to select different columns
+
+iv) SELECCT 
+This is a clause that is often used whenever you want display any information from the database,
+forexample if i want display all students i will use SELECT * FROM students.
+
+v) ORDER BY
+This clause is used to specify an order you want your data to be displayed it is by default in ascending order but
+you can specify if you want it in descending order.
